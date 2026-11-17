@@ -17,10 +17,10 @@
     pwaSettings.shouldServePagesCacheFirst = false;
 
 // version of site assets, should increase every publish
-    pwaSettings.SITE_VERSION = toHash('1790967257000');
+    pwaSettings.SITE_VERSION = toHash('1794252894000');
 
 // version of runtime files, should increase on every deploy
-    pwaSettings.RUNTIME_VERSION = toHash('2026-10-21T10_49_46');
+    pwaSettings.RUNTIME_VERSION = toHash('2026-11-15T11_49_34');
 
 // version of this file
     pwaSettings.SERVICE_WORKER_VERSION = '2' + '_' + version;
